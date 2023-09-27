@@ -1,0 +1,44 @@
+06:24:22.314 [main] INFO  seleniumframework.TestBase - Logger Started ...
+06:24:22.316 [main] INFO  seleniumframework.TestBase - Config file is loaded !
+06:24:22.317 [main] INFO  seleniumframework.TestBase - Locators file is loaded !
+06:24:22.317 [main] INFO  seleniumframework.TestBase - TestData file is loaded !
+06:24:22.318 [main] INFO  seleniumframework.TestBase - browserLaunch() - Browser is Chrome
+06:24:22.824 [main] INFO  seleniumframework.TestBase - Browser is setup - Chrome
+06:24:24.499 [main] INFO  seleniumframework.TestBase - Selenium driver - Chrome
+06:24:24.500 [main] INFO  seleniumframework.TestBase - Application URL - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+06:24:32.162 [main] INFO  seleniumframework.TestBase - URL Navigated - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+06:24:32.162 [main] INFO  seleniumframework.TestBase - Locator Username - username
+06:24:32.162 [main] INFO  seleniumframework.TestBase - Locator Password- password
+06:24:32.169 [main] INFO  seleniumframework.TestBase - Locator Login - button[type='submit']
+06:24:32.169 [main] INFO  seleniumframework.TestBase - TestData Username - Admin
+06:24:32.169 [main] INFO  seleniumframework.TestBase - TestData Password - admin123
+06:24:33.307 [main] INFO  seleniumframework.TestBase - Username field cleared
+06:24:33.459 [main] INFO  seleniumframework.TestBase - Username field - Data Entered - Admin
+06:24:33.553 [main] INFO  seleniumframework.TestBase - Password field cleared
+06:24:33.701 [main] INFO  seleniumframework.TestBase - Password field - Data Entered - admin123
+06:24:34.961 [main] INFO  seleniumframework.TestBase - Login Button Clicked 
+06:24:34.985 [main] INFO  seleniumframework.TestBase - Locator Homepage Logo//img[@alt='client brand banner']
+06:24:35.500 [main] INFO  seleniumframework.TestBase - Test Result for is Displayed Method: true
+06:24:35.508 [main] INFO  seleniumframework.TestBase - Test Result is : true
+06:35:09.203 [main] INFO  seleniumframework.TestBase - Logger Started ...
+06:35:09.205 [main] INFO  seleniumframework.TestBase - Config file is loaded !
+06:35:09.207 [main] INFO  seleniumframework.TestBase - Locators file is loaded !
+06:35:09.207 [main] INFO  seleniumframework.TestBase - TestData file is loaded !
+06:35:09.209 [main] INFO  seleniumframework.TestBase - browserLaunch() - Browser is Chrome
+06:35:09.759 [main] INFO  seleniumframework.TestBase - Browser is setup - Chrome
+06:35:11.594 [main] INFO  seleniumframework.TestBase - Selenium driver - Chrome
+06:35:11.594 [main] INFO  seleniumframework.TestBase - Application URL - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+06:35:22.394 [main] INFO  seleniumframework.TestBase - URL Navigated - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+06:35:22.394 [main] INFO  seleniumframework.TestBase - Locator Username - username
+06:35:22.394 [main] INFO  seleniumframework.TestBase - Locator Password- password
+06:35:22.394 [main] INFO  seleniumframework.TestBase - Locator Login - button[type='submit']
+06:35:22.394 [main] INFO  seleniumframework.TestBase - TestData Username - Admin
+06:35:22.394 [main] INFO  seleniumframework.TestBase - TestData Password - admin123
+06:35:23.459 [main] INFO  seleniumframework.TestBase - Username field cleared
+06:35:23.516 [main] INFO  seleniumframework.TestBase - Username field - Data Entered - Admin
+06:35:23.578 [main] INFO  seleniumframework.TestBase - Password field cleared
+06:35:23.655 [main] INFO  seleniumframework.TestBase - Password field - Data Entered - admin123
+06:35:23.716 [main] INFO  seleniumframework.TestBase - Login Button Clicked 
+06:35:23.725 [main] INFO  seleniumframework.TestBase - Locator Homepage Logo//img[@alt='client brand banner']
+06:35:26.013 [main] INFO  seleniumframework.TestBase - Test Result for is Displayed Method: true
+06:35:26.013 [main] INFO  seleniumframework.TestBase - Test Result is : true

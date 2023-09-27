@@ -1,0 +1,13 @@
+06:50:04 [main] INFO  seleniumframework.TestBase - Logger Started ...
+"06:50:04 [main] INFO  seleniumframework.TestBase - Config file is loaded !
+"06:50:04 [main] INFO  seleniumframework.TestBase - Locators file is loaded !
+"06:50:04 [main] INFO  seleniumframework.TestBase - TestData file is loaded !
+"06:50:04 [main] INFO  seleniumframework.TestBase - browserLaunch() - Browser is Chrome
+"06:50:04 [main] INFO  seleniumframework.TestBase - Browser is setup - Chrome
+"06:50:06 [main] INFO  seleniumframework.TestBase - Selenium driver - Chrome
+"06:50:06 [main] INFO  seleniumframework.TestBase - Application URL - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+"06:50:12 [main] INFO  seleniumframework.TestBase - URL Navigated - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+"06:50:12 [main] INFO  seleniumframework.TestBase - Locator Username - username
+"06:50:12 [main] INFO  seleniumframework.TestBase - Locator Password- password
+"06:50:12 [main] INFO  seleniumframework.TestBase - Locator Login - button[type='submit']
+"

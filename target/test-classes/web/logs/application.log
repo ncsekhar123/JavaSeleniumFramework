@@ -1,0 +1,11 @@
+06:50:12 [main] INFO  seleniumframework.TestBase - TestData Username - Admin
+"06:50:12 [main] INFO  seleniumframework.TestBase - TestData Password - admin123
+"06:50:13 [main] INFO  seleniumframework.TestBase - Username field cleared
+"06:50:13 [main] INFO  seleniumframework.TestBase - Username field - Data Entered - Admin
+"06:50:13 [main] INFO  seleniumframework.TestBase - Password field cleared
+"06:50:13 [main] INFO  seleniumframework.TestBase - Password field - Data Entered - admin123
+"06:50:13 [main] INFO  seleniumframework.TestBase - Login Button Clicked 
+"06:50:13 [main] INFO  seleniumframework.TestBase - Locator Homepage Logo//img[@alt='client brand banner']
+"06:50:15 [main] INFO  seleniumframework.TestBase - Test Result for is Displayed Method: true
+"06:50:15 [main] INFO  seleniumframework.TestBase - Test Result is : true
+"
